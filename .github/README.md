@@ -1,6 +1,10 @@
-<h1>Enigmatica 2: Expert</h1>
 
-This is the official repository and issue-tracker for the modpack Enigmatica 2: Expert, for Minecraft 1.12.2
+
+<h1>This is a TESTING repository</h1>
+
+Please use the following links to find Enigmatica 2: Expert
+
+<h2>Enigmatica 2: Expert</h2>
 
 [![Curse Forge](http://cf.way2muchnoise.eu/full_enigmatica2expert_downloads.svg)](https://minecraft.curseforge.com/projects/enigmatica2expert)
 
